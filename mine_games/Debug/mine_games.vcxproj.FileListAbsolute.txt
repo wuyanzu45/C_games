@@ -1,0 +1,2 @@
+E:\Projects\c\mine_games\Debug\mine_games.exe
+E:\Projects\c\mine_games\Debug\mine_games.pdb
