@@ -1,0 +1,4 @@
+E:\Projects\c\exe_1_21\Debug\Tic_Tac_Toe_game.exe
+E:\Projects\c\exe_1_21\Debug\Tic_Tac_Toe_game.pdb
+E:\Projects\c\Tic_Tac_Toe_game\Debug\Tic_Tac_Toe_game.exe
+E:\Projects\c\Tic_Tac_Toe_game\Debug\Tic_Tac_Toe_game.pdb
